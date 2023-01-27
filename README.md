@@ -1,1 +1,1 @@
-"# mvc-lib-go" 
+# mvc-lib-go
